@@ -26,7 +26,7 @@ class MiListaCalculadorTest {
 	}
 	@Test
 	void testnumMayor() {
-		Assertions.assertEquals(5, miLista.numMayor());
+		Assertions.assertEquals(3, miLista.numMayor());
 	}
 	@Test
 	void testnumMenor() {
